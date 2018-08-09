@@ -3,6 +3,7 @@ This is a website built to showcase my personal projects. Enjoy text, images and
 
 ## Built With
 * [Materialize](https://materializecss.com/) - CSS Framework
+* ~~love~~
 
 ## Deployment
 Deployed with surge probably?
