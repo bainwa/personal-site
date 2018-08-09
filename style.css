@@ -1,0 +1,53 @@
+.nav-wrapper {
+margin-left: 25%;
+margin-right: 25%;
+}
+
+nav {
+  background: #8bc34a;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.card-rev {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+
+.row .col.m7 {
+  width: inherit;
+}
+
+.abtcontain {
+  margin-top: 1em;
+  border: .1em solid black;
+  height: 90vh;
+  justify-content: right;
+}
+
+.abtcontain img {
+  margin: 1em;
+  float: left;
+}
+
+.abtcontain p {
+  margin: .5em;
+}
+
+.abt-text {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.contact-block {
+  margin-top: 1em;
+  width: 75vh;
+  height: 20vh;
+  border: .1em solid black;
+  display: flex;
+  flex-direction: row;
+}
