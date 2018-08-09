@@ -7,5 +7,5 @@ This is a website built to showcase my personal projects. Enjoy text, images and
 ## Deployment
 Deployed with surge probably?
 
-##Author
+## Author
 * Bill Bain - [bainwa](https://github.com/bainwa)
