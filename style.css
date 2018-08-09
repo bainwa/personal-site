@@ -32,20 +32,23 @@ nav {
 }
 
 .abtcontain {
+  width: 60%;
   margin-top: 1em;
-  border: .1em solid black;
   border-radius: .4em;
-  justify-content: right;
+  text-align: center;
 }
 
 .abtcontain img {
-  margin: 1em;
   float: left;
+  margin: 1em 1em 0em 1em;
 }
 
 .abtcontain p {
   margin: .5em;
+  text-align: left;
+  font-size: 1.2em;
 }
+
 
 .abt-text {
   display: flex;
@@ -74,6 +77,10 @@ nav {
 .page-footer {
   background: #8bc34a;
   padding-top: 0em;
+}
+
+.row {
+  margin-bottom: 0px;
 }
 
 .rowboat {
@@ -113,4 +120,9 @@ nav {
 .rowboat-rev {
   flex-direction: row-reverse;
   border-radius: 30px 15px 15px 0px;
+}
+
+.page-footer {
+  margin-top: 1em;
+  padding-top: .5em;
 }
