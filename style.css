@@ -17,7 +17,6 @@ nav {
   flex-direction: row-reverse;
 }
 
-
 .row .col.m7 {
   width: inherit;
 }
@@ -25,7 +24,7 @@ nav {
 .abtcontain {
   margin-top: 1em;
   border: .1em solid black;
-  height: 90vh;
+  border-radius: .4em;
   justify-content: right;
 }
 
@@ -48,6 +47,7 @@ nav {
   width: 75vh;
   height: 20vh;
   border: .1em solid black;
+  border-radius: .4em;
   display: flex;
-  flex-direction: row;
+  justify-content: space-evenly;
 }
