@@ -4,5 +4,5 @@ This is a website built to showcase my personal projects. Explore your choice of
 ## Built With
 * Materialize - CSS Framework
 
-##Deployment
+## Deployment
 Deployed with surge probably?
