@@ -1,5 +1,5 @@
 body {
-  background: none;
+  background: rgb(244, 255, 244);
 }
 
 p {
@@ -20,6 +20,7 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  opacity: 0;
 }
 
 .card-rev {
@@ -165,6 +166,13 @@ nav {
     animation: 30s slidy infinite; 
   }
   
+  #slider figure {
+    display: flex;
+    align-items: center;
+  }
 
-
-
+  #slider div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
