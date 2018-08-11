@@ -19,7 +19,7 @@ If your site loads correctly, it should look something like this:
 * ~~Love~~
 
 ## Deployment
-Deployed with surge: 
+Deployed with surge: [bite-sized-reason.surge.sh](bite-sized-reason.surge.sh)
 
 ## Author
 * Bill Bain - [bainwa](https://github.com/bainwa)
