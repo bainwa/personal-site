@@ -42,12 +42,14 @@ nav {
 .abtcontain img {
   float: left;
   margin: 1em 1em 0em 1em;
+  max-width: 35%;
 }
 
 .abtcontain p {
   margin: .5em;
   text-align: left;
   font-size: 1.2em;
+  text-indent: 2em;
 }
 
 
@@ -95,7 +97,7 @@ nav {
 }
 
 .rowboat img {
-  margin: 0em 0em 0em 0em;
+  margin: 0em;
   padding: 5px 5px 5px 5px;
   border-radius: 1em;
 }
@@ -128,10 +130,6 @@ nav {
   padding-top: .5em;
 }
 
-.carousel-item img {
-
-}
-
 @keyframes slidy {
   0% { left: 0%; }
   20% { left: 0%; }
@@ -141,7 +139,7 @@ nav {
   70% { left: -200%; }
   75% { left: -300%; }
   95% { left: -300%; }
-  100% { left: -400%; }
+  100% { left: 0%; }
   }
   
   body {
@@ -163,16 +161,10 @@ nav {
     left: 0;
     text-align: left;
     font-size: 0;
-    animation: 30s slidy infinite; 
+    animation: 24s slidy infinite; 
   }
   
   #slider figure {
     display: flex;
     align-items: center;
-  }
-
-  #slider div {
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
