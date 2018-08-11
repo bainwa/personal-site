@@ -10,7 +10,7 @@ The index turned out pretty close to the wireframe. I ended up deciding to go wi
 
 The About Me page turned out well, I did make some adjustments to the contact box at the bottom though.
 
-## Sreenshot
+## Screenshot
 If your site loads correctly, it should look something like this:
 ![Screenshot](./media/sampleshot.png)
 
